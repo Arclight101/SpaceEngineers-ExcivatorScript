@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcivatorScript", "ExcivatorScript.csproj", "{67B7D428-12DC-4B1E-8812-A6BCE398E7A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B7D428-12DC-4B1E-8812-A6BCE398E7A3}.Debug|x64.ActiveCfg = Debug|x64
+		{67B7D428-12DC-4B1E-8812-A6BCE398E7A3}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A89D1253-9B9B-4579-89AA-A121C3F83B06}
+	EndGlobalSection
+EndGlobal
